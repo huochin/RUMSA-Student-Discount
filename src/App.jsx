@@ -39,12 +39,12 @@ export default function App() {
       <header className="masthead">
         <div className="masthead-inner">
           <div className="masthead-top">
-            <span className="masthead-eyebrow">RUMSA · Vice President Department</span>
+            <span className="masthead-eyebrow">RUMSA · Vice President Department 2026/2027</span>
             <span className="masthead-count">{vendorsData.length} partner vendors</span>
           </div>
           <h1 className="masthead-title">The Student Discount Ledger</h1>
           <p className="masthead-sub">
-            Every deal negotiated for RUMSA members, organised by neighbourhood.
+            Every deal negotiated for the UoRM Students Community, organised by neighbourhood.
             Flash your student card and claim it.
           </p>
         </div>
