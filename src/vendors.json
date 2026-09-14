@@ -51,7 +51,7 @@
     "region": "TMIYC",
     "address": "Tunku Mahkota Ismail Youth Centre (TMIYC, JIn Kampung Lalang, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.426740,
+    "lat": 1.42674,
     "lng": 103.617083
   },
   {
@@ -62,8 +62,8 @@
     "region": "TMIYC",
     "address": "Tunku Mahkota Ismail Youth Centre (TMIYC, JIn Kampung Lalang, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4255,
-    "lng": 103.6173
+    "lat": 1.426891,
+    "lng": 103.617397
   },
   {
     "name": "Matcha Lalu",
@@ -73,8 +73,8 @@
     "region": "TMIYC",
     "address": "Tunku Mahkota Ismail Youth Centre (TMIYC, JIn Kampung Lalang, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "5%",
-    "lat": 1.4255,
-    "lng": 103.6173
+    "lat": 1.426701,
+    "lng": 103.617499
   },
   {
     "name": "Awan Coffee",
@@ -84,8 +84,8 @@
     "region": "TMIYC",
     "address": "Tunku Mahkota Ismail Youth Centre (TMIYC, JIn Kampung Lalang, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4255,
-    "lng": 103.6173
+    "lat": 1.426673,
+    "lng": 103.617404
   },
   {
     "name": "Panggung Kopi",
@@ -95,8 +95,8 @@
     "region": "TMIYC",
     "address": "Tunku Mahkota Ismail Youth Centre (TMIYC, JIn Kampung Lalang, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4255,
-    "lng": 103.6173
+    "lat": 1.426766,
+    "lng": 103.617358
   },
   {
     "name": "Chuan Xiang Lou",
@@ -107,8 +107,8 @@
     "region": "Jalan Tanjung",
     "address": "55 57, Jalan Sutera Tanjung 8/3, Taman Sutera Utama, 81300 Skudai, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4594,
-    "lng": 103.7692
+    "lat": 1.515672,
+    "lng": 103.668359
   },
   {
     "name": "Dong Bei Shi Fu Restaurant",
@@ -119,8 +119,8 @@
     "region": "Jalan Tanjung",
     "address": "L2-117 & L2-118 Mercu, R&F, 1, Jalan Tanjung Puteri 1, Tanjung Puteri, 80300 Johor Bahru, Johor Darul Ta'zim",
     "discount": "10% + Free Iced Sirap/Iced Tea",
-    "lat": 1.4594,
-    "lng": 103.7692
+    "lat": 1.458752,
+    "lng": 103.769478
   },
   {
     "name": "Blue Ice Skating Rink",
@@ -130,8 +130,8 @@
     "region": "Jalan Tanjung",
     "address": "3F-30, Paradigm Mall Johor Bahru, Lbh Skudai, 81200 Skudai, Johor Darul Ta'zim",
     "discount": "RM15 Off On Weekdays & RM10 Off On Weekends",
-    "lat": 1.4594,
-    "lng": 103.7692
+    "lat": 1.5163338611522517,
+    "lng": 103.68506813091766
   },
   {
     "name": "Britz",
@@ -142,8 +142,8 @@
     "region": "Jalan Tanjung",
     "address": "LG2-29, Residensi Teluk Puteri, Jalan Tanjung, Puteri Harbour, 79000 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4594,
-    "lng": 103.7692
+    "lat": 1.4120273218500237,
+    "lng": 103.6562546651359
   },
   {
     "name": "K KITCHEN_ K",
@@ -154,8 +154,8 @@
     "region": "Nusa Sentral",
     "address": "Not 22, 158, Jalan Sentral 1 It's, Jalan Sentral 22, Taman Nusa Sentral, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4632,
-    "lng": 103.62
+    "lat": 1.4690188525395989,
+    "lng": 103.62385809022727
   },
   {
     "name": "Kposana Food",
@@ -166,8 +166,8 @@
     "region": "Nusa Sentral",
     "address": "No 91, Jin Sentral 24, Taman Nusa Sentral, 79100 Iskandar Puteri, Johor",
     "discount": "10%",
-    "lat": 1.4635,
-    "lng": 103.6195
+    "lat": 1.4687671232883703,
+    "lng": 103.62653200397884
   },
   {
     "name": "Sedap Santap",
@@ -177,8 +177,8 @@
     "region": "Senadi Hills",
     "address": "17, Jalan Nadi 3, Taman Bukit Senadi, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10% + Student Meals + Free Water",
-    "lat": 1.4428,
-    "lng": 103.636
+    "lat": 1.440110344240557,
+    "lng": 103.63199550163935
   },
   {
     "name": "Bean & Brew",
@@ -188,8 +188,8 @@
     "region": "Senadi Hills",
     "address": "2, Jalan Nadi 6, Senadi Hills, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4431,
-    "lng": 103.6358
+    "lat": 1.4394497358218052,
+    "lng": 103.63116405139972
   },
   {
     "name": "Restoran Citra Minang",
@@ -199,8 +199,8 @@
     "region": "Sunway",
     "address": "22-01, laman niaga Sunway, Persiaran Medini 3, Bandar Sunway, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10% (Min. Spend RM 20 + Free Drink Next Visit)",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3945112969677824,
+    "lng": 103.63514612454655
   },
   {
     "name": "Vine Cafe",
@@ -210,8 +210,8 @@
     "region": "Sunway",
     "address": "16-01, Laman Niaga Sunway, Persiaran Medini 3, Sunway Iskandar, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "Free Dessert of the Day (Per Single Receipt)",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.394100354305986,
+    "lng": 103.63527015097263
   },
   {
     "name": "ORdinary",
@@ -221,8 +221,8 @@
     "region": "Sunway",
     "address": "68-01, Laman Niaga Sunway, Persiaran Medini 3, Sunway City, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "15%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3950019383383803,
+    "lng": 103.63398896825169
   },
   {
     "name": "Bob's Grill & Bar",
@@ -232,8 +232,8 @@
     "region": "Sunway",
     "address": "Lot 42-01 Ground Floor, Laman Niaga Sunway, Persiaran Medini 3, Sunway City, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "Exclusive Student Meal @ RM 33 & Free Flow Soft Drinks Mon - Fri 12 PM - 5PM",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3949417950657446,
+    "lng": 103.6347151369317
   },
   {
     "name": "The Family Village",
@@ -243,8 +243,8 @@
     "region": "Sunway",
     "address": "17-01, Laman Niaga Sunway, Sunway boulevard, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "15%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.394110849044067,
+    "lng": 103.63519185318692
   },
   {
     "name": "Taste Beyond 味你而来",
@@ -255,8 +255,8 @@
     "region": "Sunway",
     "address": "LOT 32, LAMAN NIAGA SUNWAY, Persiaran Medini 3, Sunway City, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "5%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.394710582931681,
+    "lng": 103.63489960066343
   },
   {
     "name": "Huai Heong",
@@ -266,8 +266,8 @@
     "region": "Sunway",
     "address": "51 & 52, Laman Niaga Sunway, Persiaran Medini 3, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3951370999125805,
+    "lng": 103.63445975987212
   },
   {
     "name": "KXY Mee Tarik",
@@ -277,8 +277,8 @@
     "region": "Sunway",
     "address": "No 46-01 Ground Floor, Laman niaga sunway, Persiaran Medini 3, Bandar medini iskandar, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3947122184983012,
+    "lng": 103.63454552857146
   },
   {
     "name": "HUP HONG IPOH WHITE COFFEE",
@@ -288,8 +288,8 @@
     "region": "Sunway",
     "address": "LOT 33-01/02, LAMAN NIAGA SUNWAY, Persiaran Medini 3, SUNWAY CITY, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.394674673326096,
+    "lng": 103.63489599973505
   },
   {
     "name": "JiuDing China Hot Pot",
@@ -300,8 +300,8 @@
     "region": "Sunway",
     "address": "35-01 & 35-02, Laman Niaga Sunway, Persiaran Medini 3, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor",
     "discount": "10%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3945845813270892,
+    "lng": 103.6347780709176
   },
   {
     "name": "The Bricks Café & Coffee Roastery",
@@ -311,8 +311,8 @@
     "region": "Sunway",
     "address": "38-01, Laman Niaga Sunway, Persiaran Medini 3, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "15%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3944359627419505,
+    "lng": 103.63470111752602
   },
   {
     "name": "DONMOA 돈모아",
@@ -322,8 +322,8 @@
     "region": "Sunway",
     "address": "Unit.61 Sunway Emerald Boulevard, 88, Persiaran Medini 3, Bandar, Sunway Iskandar Puteri, 79250 Johor Bharu, Johor Darul Ta'zim",
     "discount": "15%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3953258556717145,
+    "lng": 103.63423839973503
   },
   {
     "name": "J Arena Sunway",
@@ -333,8 +333,8 @@
     "region": "Sunway",
     "address": "165132, Jalan Medini Selatan 7, 81550 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10% Off Peak hours",
-    "lat": 1.4135,
-    "lng": 103.625
+    "lat": 1.3947135087759537,
+    "lng": 103.63320088034658
   },
   {
     "name": "Spine Zone Chiropractic",
@@ -344,8 +344,8 @@
     "region": "Sunway",
     "address": "Sunway GRID Hub, G10, Persiaran Medini 3, Sunway, 79250 Iskandar Puteri, Johor",
     "discount": "10%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3964562743816649,
+    "lng": 103.63290316321675
   },
   {
     "name": "中原烩面 Mi Daging",
@@ -356,8 +356,8 @@
     "region": "Sunway",
     "address": "No. 25 Laman Niaga Sunway Persiaran Medini 3, Sunway Iskandar Puteri, 792500 Johor Bahru, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3939348696430858,
+    "lng": 103.63491813396838
   },
   {
     "name": "Monnalisa Ristorante Italiano",
@@ -367,8 +367,8 @@
     "region": "Sunway",
     "address": "No.34-1, Laman Niaga Sunway Iskandar, Sunway boulevard, Persiaran Medini 3, Bandar Sunway Iskandar, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "5%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3946307184981697,
+    "lng": 103.63482477091769
   },
   {
     "name": "The Mellow Caffeine",
