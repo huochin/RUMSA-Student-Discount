@@ -73,8 +73,8 @@ export default function MapView({ vendors, selected, onSelect }) {
               click: () => onSelect(v),
             }}
           >
-            <Popup>
-              <div style={{ fontFamily: 'var(--font-body)', maxWidth: '220px' }}>
+            <Popup maxWidth={220} minWidth={180}>
+              <div style={{ fontFamily: 'var(--font-body)', maxWidth: '200px' }}>
                 <div style={{ fontFamily: 'var(--font-display)', fontWeight: 600, fontSize: '15px', marginBottom: '4px' }}>
                   {v.name}
                 </div>
@@ -111,12 +111,17 @@ export default function MapView({ vendors, selected, onSelect }) {
           right: 8px;
           margin: 0;
           background: rgba(247, 243, 234, 0.92);
-          font-size: 10.5px;
+          font-size: 10px;
           color: var(--ink-faint);
           padding: 6px 9px;
           border-radius: 8px;
           z-index: 1000;
-          line-height: 1.4;
+          line-height: 1.35;
+        }
+        @media (min-width: 600px) {
+          .map-disclaimer {
+            font-size: 10.5px;
+          }
         }
       `}</style>
     </div>

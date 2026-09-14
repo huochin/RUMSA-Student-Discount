@@ -70,10 +70,17 @@ export default function VendorCard({ vendor, onLocate }) {
         }
         .vendor-card-top {
           display: flex;
+          flex-wrap: wrap;
           justify-content: space-between;
           align-items: flex-start;
-          gap: 12px;
-          padding: 16px 18px 14px;
+          gap: 8px 12px;
+          padding: 14px 16px 12px;
+        }
+        @media (min-width: 400px) {
+          .vendor-card-top {
+            flex-wrap: nowrap;
+            padding: 16px 18px 14px;
+          }
         }
         .vendor-card-heading {
           display: flex;
@@ -97,6 +104,7 @@ export default function VendorCard({ vendor, onLocate }) {
           flex-direction: column;
           align-items: flex-end;
           flex-shrink: 0;
+          margin-left: auto;
         }
         .stub-label {
           font-family: var(--font-mono);
@@ -131,11 +139,20 @@ export default function VendorCard({ vendor, onLocate }) {
           background: var(--stub-line);
         }
         .vendor-card-bottom {
-          padding: 12px 18px 16px;
+          padding: 10px 16px 14px;
           display: flex;
-          align-items: flex-end;
-          justify-content: space-between;
-          gap: 12px;
+          flex-direction: column;
+          align-items: stretch;
+          gap: 10px;
+        }
+        @media (min-width: 400px) {
+          .vendor-card-bottom {
+            padding: 12px 18px 16px;
+            flex-direction: row;
+            align-items: flex-end;
+            justify-content: space-between;
+            gap: 12px;
+          }
         }
         .vendor-address {
           font-size: 12.5px;
@@ -148,13 +165,21 @@ export default function VendorCard({ vendor, onLocate }) {
           background: transparent;
           border: 1px solid var(--teal);
           color: var(--teal);
-          font-size: 12px;
+          font-size: 13px;
           font-weight: 600;
-          padding: 6px 11px;
+          padding: 9px 14px;
           border-radius: 999px;
           cursor: pointer;
           white-space: nowrap;
           transition: background 0.15s ease, color 0.15s ease;
+          min-height: 40px;
+        }
+        @media (min-width: 400px) {
+          .vendor-locate-btn {
+            font-size: 12px;
+            padding: 6px 11px;
+            min-height: auto;
+          }
         }
         .vendor-locate-btn:hover {
           background: var(--teal);
