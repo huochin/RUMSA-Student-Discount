@@ -498,7 +498,7 @@
     ],
     "region": "Eco Botanic",
     "address": "21, Jalan Eko Botani 3/5, Taman Eko Botani, 79100 Iskandar Puteri, Johor Darul Ta'zim",
-    "discount": "10%",
+    "discount": "20%",
     "lat": 1.4443,
     "lng": 103.6188
   },
@@ -749,17 +749,5 @@
     "discount": "10%",
     "lat": 1.4395,
     "lng": 103.6186
-  },
-  {
-    "name": "Restoran Bahao @ Eco botanic",
-    "categories": [
-      "F",
-      "N"
-    ],
-    "region": "Eco Botanic",
-    "address": "NO.10 (GF), JALAN EKO BOTANI 2B, TAMAN, Persiaran Eko Botani 2, 79100 Iskandar Puteri, Johor Darul Ta'zim",
-    "discount": "10%",
-    "lat": 1.4452,
-    "lng": 103.6179
   }
 ]
