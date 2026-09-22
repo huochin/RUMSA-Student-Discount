@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import vendorsData from './vendors.json'
 import VendorCard from './VendorCard'
 import MapView from './MapView'
@@ -10,6 +10,8 @@ export default function App() {
   const [query, setQuery] = useState('')
   const [mapOpen, setMapOpen] = useState(false)
   const [selected, setSelected] = useState(null)
+  const [pendingScroll, setPendingScroll] = useState(false)
+  const mapColumnRef = useRef(null)
 
   const filtered = useMemo(() => {
     return vendorsData.filter((v) => {
@@ -29,9 +31,37 @@ export default function App() {
     return counts
   }, [])
 
+  // Only auto-scroll on narrow viewports — on desktop the map sits in a
+  // sticky side column that's already visible, so jumping the page would
+  // just be disorienting.
+  useEffect(() => {
+    if (!pendingScroll || !mapOpen) return
+    const isMobileLayout = window.matchMedia('(max-width: 919px)').matches
+    if (!isMobileLayout) {
+      setPendingScroll(false)
+      return
+    }
+    // Wait a frame so the map column has mounted and has its height before
+    // scrolling to it — otherwise the target position is still 0.
+    const raf = requestAnimationFrame(() => {
+      mapColumnRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+      setPendingScroll(false)
+    })
+    return () => cancelAnimationFrame(raf)
+  }, [pendingScroll, mapOpen])
+
   function handleLocate(vendor) {
     setSelected(vendor)
     setMapOpen(true)
+    setPendingScroll(true)
+  }
+
+  function handleToggleMap() {
+    setMapOpen((wasOpen) => {
+      const nowOpen = !wasOpen
+      if (nowOpen) setPendingScroll(true)
+      return nowOpen
+    })
   }
 
   return (
@@ -39,12 +69,12 @@ export default function App() {
       <header className="masthead">
         <div className="masthead-inner">
           <div className="masthead-top">
-            <span className="masthead-eyebrow">RUMSA · Vice President Department 2026/2027</span>
+            <span className="masthead-eyebrow">RUMSA · Vice President Department</span>
             <span className="masthead-count">{vendorsData.length} partner vendors</span>
           </div>
           <h1 className="masthead-title">The Student Discount Ledger</h1>
           <p className="masthead-sub">
-            Every deal negotiated for the UoRM Students Community, organised by neighbourhood.
+            Every deal negotiated for RUMSA members, organised by neighbourhood.
             Flash your student card and claim it.
           </p>
         </div>
@@ -61,7 +91,7 @@ export default function App() {
           />
           <button
             className={`map-toggle ${mapOpen ? 'map-toggle-active' : ''}`}
-            onClick={() => setMapOpen((o) => !o)}
+            onClick={handleToggleMap}
           >
             {mapOpen ? 'Hide map' : 'Show map'}
           </button>
@@ -155,7 +185,7 @@ export default function App() {
         </div>
 
         {mapOpen && (
-          <div className="map-column">
+          <div className="map-column" ref={mapColumnRef}>
             <MapView vendors={filtered} selected={selected} onSelect={setSelected} />
           </div>
         )}
