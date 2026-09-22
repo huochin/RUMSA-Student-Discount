@@ -12,12 +12,12 @@ export const CATEGORY_INFO = {
 export const FILTER_CATEGORIES = ['F', 'H', 'S', 'C', 'O']
 
 export const REGIONS = [
+  'Eco Botanic',
+  'Sunway',
   'TMIYC',
-  'Jalan Tanjung',
+  'Medini',
   'Nusa Sentral',
   'Senadi Hills',
-  'Sunway',
-  'Medini',
   'Bukit Indah',
-  'Eco Botanic',
+  'Jalan Tanjung',
 ]
