@@ -19,5 +19,5 @@ export const REGIONS = [
   'Bukit Indah',
   'Nusa Sentral',
   'Senadi Hills',
-  'Jalan Tanjung',
+  'Miscellaneous',
 ]
