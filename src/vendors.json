@@ -118,7 +118,7 @@
     ],
     "region": "Jalan Tanjung",
     "address": "L2-117 & L2-118 Mercu, R&F, 1, Jalan Tanjung Puteri 1, Tanjung Puteri, 80300 Johor Bahru, Johor Darul Ta'zim",
-    "discount": "10% + Free Iced Sirap/Iced Tea",
+    "discount": "10%",
     "lat": 1.458752,
     "lng": 103.769478
   },
@@ -348,14 +348,14 @@
     "lng": 103.63290316321675
   },
   {
-    "name": "中原烩面 Mi Daging",
+    "name": "中原烩面 Mi Daging (TBC)",
     "categories": [
       "F",
       "N"
     ],
     "region": "Sunway",
     "address": "No. 25 Laman Niaga Sunway Persiaran Medini 3, Sunway Iskandar Puteri, 792500 Johor Bahru, Johor Darul Ta'zim",
-    "discount": "10%",
+    "discount": "50%",
     "lat": 1.3939348696430858,
     "lng": 103.63491813396838
   },
@@ -378,8 +378,8 @@
     "region": "Sunway",
     "address": "54-01, Persiaran Medini 3, Laman Niaga Sunway 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3950375746239911,
+    "lng": 103.63436558995191
   },
   {
     "name": "Chroma Entertainment",
@@ -389,8 +389,8 @@
     "region": "Sunway",
     "address": "G09, Sunway Citrine Hub, 10, Persiaran Medini 5, Sunway Iskandar, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "12%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3909040605334637,
+    "lng": 103.63958929001001
   },
   {
     "name": "Home Pho",
@@ -399,9 +399,9 @@
     ],
     "region": "Sunway",
     "address": "66-01 Laman Niaga Sunway Persiaran Medini 3, Bandar Medini Iskandar, 79250 Iskandar Puteri, Johor Darul Takzim",
-    "discount": "15%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "discount": "10%",
+    "lat": 1.3950677147704809,
+    "lng": 103.63417938794954
   },
   {
     "name": "ABCD Cafe",
@@ -411,8 +411,8 @@
     "region": "Sunway",
     "address": "Ground floor G11, SUNWAY CITRINE, SUNWAY ISKANDAR, PERSIARAN MEDINI 3, BANDAR MEDINI ISKANDAR, 79100 ISKANDAR PUTERI, 79100 Johor Bahru, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4118,
-    "lng": 103.6265
+    "lat": 1.3906825665763416,
+    "lng": 103.63975618422099
   },
   {
     "name": "Kuntum & Brew",
@@ -422,8 +422,8 @@
     "region": "Medini",
     "address": "C-GF-23, ION AXXES, Persiaran Medini Sentral 6, 79250 Iskandar Puteri, Johor",
     "discount": "10%",
-    "lat": 1.4285,
-    "lng": 103.6335
+    "lat": 1.4073023985884814,
+    "lng": 103.62278829582708
   },
   {
     "name": "Nenda Plates",
@@ -433,8 +433,8 @@
     "region": "Medini",
     "address": "Pusat Komersial Visi Medini, S12-01, 2, Persiaran Medini, Bandar, 79250 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10% + Free Iced Sirap/Iced Tea",
-    "lat": 1.4285,
-    "lng": 103.6335
+    "lat": 1.4166439518425096,
+    "lng": 103.6223252708423
   },
   {
     "name": "Kueh Bakor",
@@ -444,8 +444,8 @@
     "region": "Medini",
     "address": "No.8 & 9, Versis Medini, Jalan Persiaran 2, 79250 Iskandar Puteri, Johor",
     "discount": "10% (+Applies To All Branches)",
-    "lat": 1.4285,
-    "lng": 103.6335
+    "lat": 1.4169255942423735,
+    "lng": 103.62238835990658
   },
   {
     "name": "YUNO Yogurt",
@@ -455,8 +455,8 @@
     "region": "Medini",
     "address": "No: S-43-01 (Ground FloorPusat Komersial Visi MY Johor Iskandar Puteri Bandar Medini iskandar, Persiaran Medini 2, Medini, 79250",
     "discount": "10%",
-    "lat": 1.4285,
-    "lng": 103.6335
+    "lat": 1.4163420718748638,
+    "lng": 103.62161865795466
   },
   {
     "name": "The Bridge Wantan Mee",
@@ -466,8 +466,8 @@
     "region": "Bukit Indah",
     "address": "33G, Jalan Bestari 5/2, Taman Nusa Bestari, 81200 Johor Bahru, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.48,
-    "lng": 103.6596
+    "lat": 1.4815016970542605,
+    "lng": 103.66641798090352
   },
   {
     "name": "Taaj Curry House",
@@ -477,8 +477,8 @@
     "region": "Bukit Indah",
     "address": "25, Jalan Indah 22/14, Taman Bukit Indah 2, 81200 Johor Bahru, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4803,
-    "lng": 103.6592
+    "lat": 1.468682718836937,
+    "lng": 103.65398517119259
   },
   {
     "name": "Tongkeun K No.1 Chicken",
@@ -488,8 +488,8 @@
     "region": "Eco Botanic",
     "address": "No. 22, Jalan Eko Botani 2B, Taman, Persiaran Eko Botani 2, 79100 Iskandar Puteri, Johor",
     "discount": "10%",
-    "lat": 1.4446,
-    "lng": 103.6185
+    "lat": 1.4372842902895036,
+    "lng": 103.62297559874602
   },
   {
     "name": "Grandma Ong",
@@ -499,8 +499,8 @@
     "region": "Eco Botanic",
     "address": "21, Jalan Eko Botani 3/5, Taman Eko Botani, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "20%",
-    "lat": 1.4443,
-    "lng": 103.6188
+    "lat": 1.4402200313950178,
+    "lng": 103.6182095110507
   },
   {
     "name": "Fit My Bowl",
@@ -510,8 +510,8 @@
     "region": "Eco Botanic",
     "address": "16, Jalan Eko Botani 3/6, Taman Eko Botani, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "15%",
-    "lat": 1.4448,
-    "lng": 103.6182
+    "lat": 1.4391708459046486,
+    "lng": 103.61738803869221
   },
   {
     "name": "Over Space Studio",
@@ -521,8 +521,8 @@
     "region": "Eco Botanic",
     "address": "A0227 Blok A Eko Galleria, Jalan Eko Botani 3, Taman Eko Botani, Johor Bahru, Malaysia, 79100",
     "discount": "10% for 1 Piece, 15% for 3 Pieces, & 20% for 5 Pieces",
-    "lat": 1.4446,
-    "lng": 103.6185
+    "lat": 1.4480077623316114,
+    "lng": 103.63857719626878
   },
   {
     "name": "Face Bar",
@@ -532,8 +532,8 @@
     "region": "Eco Botanic",
     "address": "48, Jln Eko Botani 3/3 Taman Eko Botanic Iskandar Puteri, 79100 Johor Bahru, Johor Darul Ta'zim",
     "discount": "10% minimum spend RM169",
-    "lat": 1.4443,
-    "lng": 103.6188
+    "lat": 1.437375045961485,
+    "lng": 103.61937167914955
   },
   {
     "name": "NANJYA MONJYA X MISEYA",
@@ -544,8 +544,8 @@
     "region": "Eco Botanic",
     "address": "2A JALAN EKO BOTANI 3/6 ISKANDAR PUTERI, 79100 JOHOR BAHRU, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4452,
-    "lng": 103.6179
+    "lat": 1.4395008548879415,
+    "lng": 103.61697344520363
   },
   {
     "name": "Sanku Maots'ai",
@@ -555,9 +555,9 @@
     ],
     "region": "Eco Botanic",
     "address": "No.19, Jalan Eko Botani 2c, Taman, Persiaran Eko Botani 2, 79100 Iskandar Puteri, Johor Darul Ta'zim",
-    "discount": "10%",
-    "lat": 1.4443,
-    "lng": 103.6188
+    "discount": "10% (Weekdays Before 7:00 PM)",
+    "lat": 1.4384132949149828,
+    "lng": 103.62197437583849
   },
   {
     "name": "Niki Japanese Dining",
@@ -568,11 +568,11 @@
     "region": "Eco Botanic",
     "address": "No: 25,27, 29, Jalan Eko Botani 3/5, Taman Eko Botani, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4455,
-    "lng": 103.6175
+    "lat": 1.440015489544,
+    "lng": 103.61842400876253
   },
   {
-    "name": "烤主义 Eco Botanic",
+    "name": "烤全羊 Eco Botanic",
     "categories": [
       "F",
       "N"
@@ -580,8 +580,8 @@
     "region": "Eco Botanic",
     "address": "A0123 BLOK A, EKO GALLERIA, JALAN EKO BOTANI 3, TAMAN EKO BOTANI, 79100 Iskandar Puteri, Johor",
     "discount": "10%",
-    "lat": 1.4446,
-    "lng": 103.6185
+    "lat": 1.4412976364643348,
+    "lng": 103.61574221664601
   },
   {
     "name": "Reunion Iron Pot",
@@ -592,8 +592,8 @@
     "region": "Eco Botanic",
     "address": "33A, Jalan Eko Botani 3/7, 79100 Gelang Patah, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4448,
-    "lng": 103.6182
+    "lat": 1.4384963588449817,
+    "lng": 103.61768286592286
   },
   {
     "name": "Açai Fruity",
@@ -603,8 +603,8 @@
     "region": "Eco Botanic",
     "address": "K3,BLOK B0120, EKO GALLERIA, 3, Persiaran Eko Botani, TAMAN EKO BOTANI, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4446,
-    "lng": 103.6185
+    "lat": 1.4411678161873989,
+    "lng": 103.61683148973333
   },
   {
     "name": "Chandnis Beauty House",
@@ -614,8 +614,8 @@
     "region": "Eco Botanic",
     "address": "A, Above 7 Eleven 1st floor, Inside Eco Galleria Mall, B0205, 3/2, Persiaran Eko Botani, Taman Eko Botani, 79100 Iskandar Puteri, Johor",
     "discount": "15% Minimum Spend RM 50 (Prior Appointment)",
-    "lat": 1.4448,
-    "lng": 103.6182
+    "lat": 1.4415421071999366,
+    "lng": 103.61689567755516
   },
   {
     "name": "Mamu Junction",
@@ -625,8 +625,8 @@
     "region": "Eco Botanic",
     "address": "2, Jln Eko Botani 3/3, 79100 Gelang Patah, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4452,
-    "lng": 103.6179
+    "lat": 1.4387817408815258,
+    "lng": 103.62037817227328
   },
   {
     "name": "Tang Ren",
@@ -636,8 +636,8 @@
     "region": "Eco Botanic",
     "address": "No 64, Jalan Eko Botani 3/2, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4443,
-    "lng": 103.6188
+    "lat": 1.4395068571268597,
+    "lng": 103.61981351879908
   },
   {
     "name": "1960 Korean Fusion Restaurant",
@@ -647,8 +647,8 @@
     "region": "Eco Botanic",
     "address": "B0111 & B0112, Blok B, Eko Galleria, 3, Jalan Eko Botani 3/2, Taman Eco Botani, 79100 Iskandar Puteri, Johor",
     "discount": "10%",
-    "lat": 1.4446,
-    "lng": 103.6185
+    "lat": 1.4409621434526843,
+    "lng": 103.61725637091185
   },
   {
     "name": "Han Yuan Daily",
@@ -658,8 +658,8 @@
     "region": "Eco Botanic",
     "address": "38, Jalan Eko Botani 3/2, Taman Eko Botani Iskandar Puteri, 79100 Johor Bahru, Johor Darul Ta'zim",
     "discount": "5% + Entitled To Cash Voucher",
-    "lat": 1.4443,
-    "lng": 103.6188
+    "lat": 1.4401589345672547,
+    "lng": 103.61891935295753
   },
   {
     "name": "Kara Virunthu Indian Cuisine​",
@@ -668,9 +668,9 @@
     ],
     "region": "Eco Botanic",
     "address": "NO68, JALAN EKO BOTANI 2B, Persiaran Eko Botani 2, 79100 Iskandar Puteri, Johor Darul Ta'zim",
-    "discount": "10%",
-    "lat": 1.4455,
-    "lng": 103.6175
+    "discount": "15%",
+    "lat": 1.4381582236871573,
+    "lng": 103.62131950393008
   },
   {
     "name": "Main Character",
@@ -680,8 +680,8 @@
     "region": "Eco Botanic",
     "address": "2, 11-1 Jalan Eko Botani 2C, Taman, Persiaran Eko Botani, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4446,
-    "lng": 103.6185
+    "lat": 1.438323540343236,
+    "lng": 103.62222759764961
   },
   {
     "name": "BarberPOV",
@@ -691,8 +691,8 @@
     "region": "Eco Botanic",
     "address": "47-1 Jalan Eko Botani 2F, Taman, Persiaran Eko Botani 2, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "15% Current & Future Services (Applicable For 1 Year Enrollment of Services)",
-    "lat": 1.4443,
-    "lng": 103.6188
+    "lat": 1.4357061901067838,
+    "lng": 103.62230276905593
   },
   {
     "name": "EDITH ART & GIFT SHOP",
@@ -702,8 +702,8 @@
     "region": "Eco Botanic",
     "address": "3 Level 3 Block A #0430, Eco Galleria Shopping Mall, Taman Persiaran Eco Botani, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "5% (Payment > RM60) & 10% (Payment > RM100)",
-    "lat": 1.4446,
-    "lng": 103.6185
+    "lat": 1.4414222213402061,
+    "lng": 103.61655339411674
   },
   {
     "name": "147 Snooker",
@@ -713,8 +713,8 @@
     "region": "Eco Botanic",
     "address": "7 A Jalan Eco Botani 3/4 Taman Eco Botani Iskandar Puteri, 79100 Johor Bahru, Johor Darul Ta'zim",
     "discount": "20%",
-    "lat": 1.4452,
-    "lng": 103.6179
+    "lat": 1.438824819359567,
+    "lng": 103.6199542144022
   },
   {
     "name": "Mamasita Mexican Restaurant",
@@ -724,8 +724,8 @@
     "region": "Eco Botanic",
     "address": "Eko Galleria, A0118, 3, Jalan Eko Botani 3/2, Taman Eko Botani, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4446,
-    "lng": 103.6185
+    "lat": 1.4415908086369205,
+    "lng": 103.61654659842345
   },
   {
     "name": "ZHENG FU JI",
@@ -736,8 +736,8 @@
     "region": "Eco Botanic",
     "address": "32G JALAN ECO BOTANI 3/3, TAMAN, Persiaran Eko Botani, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "5%",
-    "lat": 1.4448,
-    "lng": 103.6182
+    "lat": 1.4378950023291932,
+    "lng": 103.61971236746078
   },
   {
     "name": "Art Roots Studio",
@@ -747,7 +747,18 @@
     "region": "Eco Botanic",
     "address": "A0335, BLOCK A LEVEL 2, EKO GALLERIA, 79100 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
-    "lat": 1.4395,
-    "lng": 103.6186
+    "lat": 1.4414897117693188,
+    "lng": 103.6157737308687
+  },
+  {
+    "name": "AYA Coffee",
+    "categories": [
+      "F"
+    ],
+    "region": "Sunway",
+    "address": "Persiaran Medini Sentral 1, 79250 Iskandar Puteri, Johor Darul Ta'zim",
+    "discount": "15%",
+    "lat": 1.4179187624508247,
+    "lng": 103.62605087983906
   }
 ]
