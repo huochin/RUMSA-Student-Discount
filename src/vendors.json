@@ -104,7 +104,7 @@
       "F",
       "N"
     ],
-    "region": "Miscellaneous",
+    "region": "Sutera Mall",
     "address": "55 57, Jalan Sutera Tanjung 8/3, Taman Sutera Utama, 81300 Skudai, Johor Darul Ta'zim",
     "discount": "10%",
     "lat": 1.515672,
@@ -116,7 +116,7 @@
       "F",
       "N"
     ],
-    "region": "Miscellaneous",
+    "region": "R&F Mall",
     "address": "L2-117 & L2-118 Mercu, R&F, 1, Jalan Tanjung Puteri 1, Tanjung Puteri, 80300 Johor Bahru, Johor Darul Ta'zim",
     "discount": "10%",
     "lat": 1.458752,
@@ -127,7 +127,7 @@
     "categories": [
       "S"
     ],
-    "region": "Miscellaneous",
+    "region": "Paradigm Mall",
     "address": "3F-30, Paradigm Mall Johor Bahru, Lbh Skudai, 81200 Skudai, Johor Darul Ta'zim",
     "discount": "RM15 Off On Weekdays & RM10 Off On Weekends",
     "lat": 1.5163338611522517,
@@ -139,7 +139,7 @@
       "F",
       "N"
     ],
-    "region": "Miscellaneous",
+    "region": "Puteri Harbour",
     "address": "LG2-29, Residensi Teluk Puteri, Jalan Tanjung, Puteri Harbour, 79000 Iskandar Puteri, Johor Darul Ta'zim",
     "discount": "10%",
     "lat": 1.4120273218500237,
@@ -518,7 +518,7 @@
     "categories": [
       "C"
     ],
-    "region": "Eco Botanic",
+    "region": "Senadi Hills",
     "address": "A0227 Blok A Eko Galleria, Jalan Eko Botani 3, Taman Eko Botani, Johor Bahru, Malaysia, 79100",
     "discount": "10% for 1 Piece, 15% for 3 Pieces, & 20% for 5 Pieces",
     "lat": 1.4480077623316114,
